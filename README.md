@@ -130,16 +130,16 @@ Security analysts, patching teams, and leadership all get value from the same sy
 
 ---
 
-## 🧩 Challenges I Faced
+## 🧩 Challenges I Face
 
 **🧱 Data Integrity**
-Public CVE feeds are inconsistent. I had to build schema validators and enrichment functions to ensure each CVE had the metadata we needed.
+Public CVE feeds are inconsistent. I have to build schema validators and enrichment functions to ensure each CVE had the metadata we needed.
 
 **🔀 Asset Mapping**
-CPE strings and product names aren’t standardized. Matching these to real-world software inventory was far harder than expected.
+CPE strings and product names aren’t standardized. Matching these to real-world software inventory is harder than expected.
 
 **🔁 Alert Fatigue**
-Too many alerts can backfire. We introduced risk thresholds, filtering logic, and manual overrides to keep things focused and useful.
+Too many alerts can backfire. We will introduce risk thresholds, filtering logic, and manual overrides to keep things focused and useful.
 
 **⚖️ Explainability in AI**
 LLMs aren’t perfect. Every decision they make—risk rating, summaries—is logged and reviewable. This builds trust and accountability.

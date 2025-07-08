@@ -148,9 +148,9 @@ LLMs aren’t perfect. Every decision they make—risk rating, summaries—is lo
 
 ## 🧑‍💻 My Role and Impact
 
-This project let me apply my data science and engineering background to solve a mission-critical security problem.
+This project lets me apply my data science and engineering background to solve a mission-critical security problem.
 
-I designed the architecture, built the pipelines, trained the models, and collaborated with our SOC to refine the workflows. ThreatLens went from concept to prototype to MVP within a few months, and early testing has already improved how our team handles new CVEs.
+I am designing the architecture, building the pipelines, training the models, and collaborating with our colleagues to refine the workflows. ThreatLens will go from concept to prototype to MVP within 2025, and early testing will begin 2026.
 
 ---
 

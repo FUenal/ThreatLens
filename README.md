@@ -6,6 +6,8 @@
 
 ---
 
+![](<./images/showcase_high.gif>)
+
 ## The Vulnerability Overload Crisis
 
 Every day, dozens of new CVEs (Common Vulnerabilities and Exposures) are published. Security teams are expected to process them, evaluate their risk, and take action—all before the next wave arrives. Some vulnerabilities are critical and need immediate patching. Many are not. But in the moment, it’s not always clear which is which.

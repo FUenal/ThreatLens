@@ -2,11 +2,11 @@
 
 # ⚡ ThreatLens: A Modern, AI-Powered Platform for Vulnerability Intelligence and Asset Risk Prioritization
 
+![](<./images/showcase_high.gif>)
+
 > Building a scalable, real-time vulnerability management solution is hard. But with the right combination of open-source tools, LLMs, and domain expertise, it’s possible—and worth it.
 
 ---
-
-![](<./images/showcase_high.gif>)
 
 ## The Vulnerability Overload Crisis
 

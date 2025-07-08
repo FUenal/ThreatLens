@@ -1,6 +1,4 @@
-# ThreatLens
-
-## MORE COMING SOON
+# MORE COMING SOON!
 
 # ⚡ ThreatLens: A Modern, AI-Powered Platform for Vulnerability Intelligence and Asset Risk Prioritization
 

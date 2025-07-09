@@ -44,9 +44,9 @@ It doesn’t just tell you what’s vulnerable. It tells you what’s at risk—
 
 ## Before ThreatLens: A Manual and Inefficient Process
 
-Prior to ThreatLens, managing vulnerabilities was an arduous and reactive task. Security analysts had to sift through long lists of CVEs manually, cross-reference assets with vague software tags, and rely on static metrics like CVSS to guess severity.
+Prior to the idea of ThreatLens, managing vulnerabilities had to be an arduous and reactive task. Security analysts had to sift through long lists of CVEs manually, cross-reference assets with vague software tags, and rely on static metrics like CVSS to guess severity.
 
-There was no clear mapping between vulnerabilities and our infrastructure. We didn’t have a centralized view of risk across departments. And remediation was often delayed, not because people didn’t care—but because they didn’t have the right data, at the right time, in the right format.
+There was no clear mapping between vulnerabilities and our infrastructure. A centralized view of risk across departments and endpoints coupled with a dynamic and intelligent platform was missing. And remediation was often delayed, not because people didn’t care—but because they didn’t have the right data, at the right time, in the right format.
 
 We were spending too much time analyzing and not enough time fixing.
 
